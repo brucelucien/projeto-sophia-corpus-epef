@@ -1,4 +1,4 @@
-# Sophia (Corpus EPEF)
+# Projeto Sophia (Download do Corpus EPEF)
 
 ## Objetivo
 
